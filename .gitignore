@@ -1,0 +1,16 @@
+# Quartus build output (regenerated every compile)
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.sof
+*.pof
+
+# old duplicate copy of hex-display/hex_display.v
+hex7seg.v
